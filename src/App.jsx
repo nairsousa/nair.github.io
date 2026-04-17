@@ -12,7 +12,7 @@ function App() {
         <section id="sobre">
           <h2>Sobre Mim</h2>
           <p>
-            Sou apaixonada por tecnologia, ensino e inovação. Gosto de aprender e compartilhar conhecimento.
+            Sou Nair Sousa, estudante do curso de Sistemas para Internet e estou sempre em busca de novos conhecimentos. 
           </p>
         </section>
 
