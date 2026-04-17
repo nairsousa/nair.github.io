@@ -4,20 +4,10 @@ function Projetos() {
   const projetos = [
     {
       id: 1,
-      nome: "Sistema de Fiscalização",
-      descricao: "Sistema web para cadastro e consulta de fiscalizações."
+      nome: "PORTFOLIO PARA A DICIPLINA PROGRAMAÇÃO WEB",
+      descricao: "Portfolio Sobre mim com informações pessoais"
     },
-    {
-      id: 2,
-      nome: "Dashboard de Irregularidades",
-      descricao: "Dashboard com filtros, gráficos e estatísticas."
-    },
-    {
-      id: 3,
-      nome: "Automação Google Drive",
-      descricao: "Automação de documentos e envio de e-mails."
-    }
-  ];
+     ];
 
   return (
     <section id="projetos">
